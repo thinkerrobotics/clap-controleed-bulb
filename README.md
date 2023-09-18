@@ -1,4 +1,4 @@
-# clap-controleed-bulb
+# clap-controlled-bulb
 Arduino Uno	
 LM393 Sound Sensor Module	
 5V Relay Module	
